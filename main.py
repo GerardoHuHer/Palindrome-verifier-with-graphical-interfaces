@@ -12,6 +12,3 @@ class sentence:
             return True
         else:
             return False
-
-word = sentence("anita lava la tina")
-print(word.verifier())
