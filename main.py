@@ -1,7 +1,7 @@
 """
     This project will verify if a string is a palindrome or not
 """
-class sentence:
+class Sentence:
     def __init__(self, sentence = " "):
         self.__sentence = sentence.upper()
 
